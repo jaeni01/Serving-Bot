@@ -6,12 +6,18 @@
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-Fabrication-FF6C00?style=flat-square)
 ![Mechanical Design](https://img.shields.io/badge/Mechanical-Gripper%20Design-E74C3C?style=flat-square)
 
+<p align="center"><img src="docs/demo.gif" width="640" alt="Demo"></p>
+
+<p align="center">로봇팔 컵 서빙 동작 — <a href="https://www.youtube.com/watch?v=4_AN7rsIiLY">▶ 전체 영상</a></p>
+
 ## 📌 프로젝트 정보
 
 | 항목 | 내용 |
 |---|---|
 | 프로젝트 | Barista Collaborative Robot Arm / Serving Bot |
 | 형태 | 팀 프로젝트 |
+| 개발 기간 | 2021년 2학기 (기구학 기말 프로젝트) |
+| 팀 구성 | 4인 팀 프로젝트 |
 | 주제 | 컵을 잡고 기울여 음료를 따르는 협동 로봇팔 컨셉 구현 |
 | 본인 역할 | **그리퍼 설계 및 제작** |
 | 시연 영상 | https://www.youtube.com/watch?v=4_AN7rsIiLY |
